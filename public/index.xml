@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ONURHAN AK</title><link>https://onurhanak.com/</link><description>Recent content on ONURHAN AK</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://onurhanak.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://onurhanak.com/about/</link><pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate><guid>https://onurhanak.com/about/</guid><description>&lt;p>Hi, I&amp;rsquo;m &lt;strong>Onurhan Ak&lt;/strong>. I am a Linux-focused DevOps and Systems Engineer with a strong background in automation, provisioning, and data infrastructure. I’m RHCSA-certified and currently working as a Data Engineer &amp;amp; Linux SysAdmin at the University of British Columbia.&lt;/p>
+&lt;h3 id="what-i-do">
+ What I Do
+ &lt;a class="heading-link" href="#what-i-do">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Automate provisioning and deployment with &lt;strong>Ansible&lt;/strong> and &lt;strong>Docker Compose&lt;/strong>&lt;/li>
+&lt;li>Build ETL and system automation tools using &lt;strong>Python&lt;/strong>, &lt;strong>Go&lt;/strong>, and &lt;strong>Bash&lt;/strong>&lt;/li>
+&lt;li>Manage Linux environments, HPC systems, and research workloads on &lt;strong>SLURM clusters&lt;/strong>&lt;/li>
+&lt;li>Harden systems using &lt;strong>SELinux&lt;/strong>, &lt;strong>firewalld&lt;/strong>, and secure SSH configurations&lt;/li>
+&lt;/ul>
+&lt;h3 id="experience">
+ Experience
+ &lt;a class="heading-link" href="#experience">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>UBC&lt;/strong> — streamlined Linux dev environments, automated backup pipelines, and maintained userspace configurations for AI workflows.&lt;/li>
+&lt;li>&lt;strong>Freelance&lt;/strong> — deployed and maintained Linux servers for clients, refactored broken scripts, and trained non-technical users on SSH and Linux basics.&lt;/li>
+&lt;/ul>
+&lt;h3 id="key-skills">
+ Key Skills
+ &lt;a class="heading-link" href="#key-skills">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Linux&lt;/strong>: RHEL, Ubuntu, CentOS&lt;/li>
+&lt;li>&lt;strong>Automation&lt;/strong>: Ansible, Docker, cron&lt;/li>
+&lt;li>&lt;strong>Languages&lt;/strong>: Python, Bash, Go&lt;/li>
+&lt;li>&lt;strong>Tools&lt;/strong>: systemd, journalctl, Git&lt;/li>
+&lt;/ul></description></item><item><title>Resume</title><link>https://onurhanak.com/resume/</link><pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate><guid>https://onurhanak.com/resume/</guid><description>&lt;p>You can view or download my latest CV below:&lt;/p>
+&lt;p>&lt;a href="https://onurhanak.com/files/Ak_CV.pdf" >📄 View Resume (PDF)&lt;/a>&lt;/p></description></item></channel></rss>
