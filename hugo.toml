@@ -27,7 +27,7 @@ author = "Onurhan Ak"
 description = "Onurhan Ak's personal website"
 keywords = "blog,developer,personal"
 info = ["Red Hat Certified System Administrator", "DevOps"]
-avatarURL = "images/pp.jpg"
+avatarURL = "images/pp3.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
@@ -46,7 +46,7 @@ hideColorSchemeToggle = false
 # Series see also post count
 maxSeeAlsoItems = 5
 # Custom CSS
-customCSS = []
+customCSS = ["css/custom.css"]
 # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
 customSCSS = []
 

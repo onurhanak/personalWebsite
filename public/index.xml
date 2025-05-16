@@ -1,39 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ONURHAN AK</title><link>https://onurhanak.com/</link><description>Recent content on ONURHAN AK</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://onurhanak.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://onurhanak.com/about/</link><pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate><guid>https://onurhanak.com/about/</guid><description>&lt;p>Hi, I&amp;rsquo;m &lt;strong>Onurhan Ak&lt;/strong>. I am a Linux-focused DevOps and Systems Engineer with a strong background in automation, provisioning, and data infrastructure. I’m RHCSA-certified and currently working as a Data Engineer &amp;amp; Linux SysAdmin at the University of British Columbia.&lt;/p>
-&lt;h3 id="what-i-do">
- What I Do
- &lt;a class="heading-link" href="#what-i-do">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>Automate provisioning and deployment with &lt;strong>Ansible&lt;/strong> and &lt;strong>Docker Compose&lt;/strong>&lt;/li>
-&lt;li>Build ETL and system automation tools using &lt;strong>Python&lt;/strong>, &lt;strong>Go&lt;/strong>, and &lt;strong>Bash&lt;/strong>&lt;/li>
-&lt;li>Manage Linux environments, HPC systems, and research workloads on &lt;strong>SLURM clusters&lt;/strong>&lt;/li>
-&lt;li>Harden systems using &lt;strong>SELinux&lt;/strong>, &lt;strong>firewalld&lt;/strong>, and secure SSH configurations&lt;/li>
-&lt;/ul>
-&lt;h3 id="experience">
- Experience
- &lt;a class="heading-link" href="#experience">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>UBC&lt;/strong> — streamlined Linux dev environments, automated backup pipelines, and maintained userspace configurations for AI workflows.&lt;/li>
-&lt;li>&lt;strong>Freelance&lt;/strong> — deployed and maintained Linux servers for clients, refactored broken scripts, and trained non-technical users on SSH and Linux basics.&lt;/li>
-&lt;/ul>
-&lt;h3 id="key-skills">
- Key Skills
- &lt;a class="heading-link" href="#key-skills">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Linux&lt;/strong>: RHEL, Ubuntu, CentOS&lt;/li>
-&lt;li>&lt;strong>Automation&lt;/strong>: Ansible, Docker, cron&lt;/li>
-&lt;li>&lt;strong>Languages&lt;/strong>: Python, Bash, Go&lt;/li>
-&lt;li>&lt;strong>Tools&lt;/strong>: systemd, journalctl, Git&lt;/li>
-&lt;/ul></description></item><item><title>Resume</title><link>https://onurhanak.com/resume/</link><pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate><guid>https://onurhanak.com/resume/</guid><description>&lt;p>You can view or download my latest CV below:&lt;/p>
-&lt;p>&lt;a href="https://onurhanak.com/files/Ak_CV.pdf" >📄 View Resume (PDF)&lt;/a>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONURHAN AK</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on ONURHAN AK</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m &lt;strong&gt;Onurhan Ak&lt;/strong&gt;. I am a Linux-focused DevOps and Systems Engineer with a strong background in automation, provisioning, and data infrastructure. I’m RHCSA-certified and currently working as a Data Engineer &amp;amp; Linux SysAdmin at the University of British Columbia.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-i-do&#34;&gt;&#xA;  What I Do&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#what-i-do&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automate provisioning and deployment with &lt;strong&gt;Ansible&lt;/strong&gt; and &lt;strong&gt;Docker Compose&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Build ETL and system automation tools using &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;Go&lt;/strong&gt;, and &lt;strong&gt;Bash&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Manage Linux environments, HPC systems, and research workloads on &lt;strong&gt;SLURM clusters&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Harden systems using &lt;strong&gt;SELinux&lt;/strong&gt;, &lt;strong&gt;firewalld&lt;/strong&gt;, and secure SSH configurations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;experience&#34;&gt;&#xA;  Experience&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#experience&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;UBC&lt;/strong&gt; — streamlined Linux dev environments, automated backup pipelines, and maintained userspace configurations for AI workflows.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Freelance&lt;/strong&gt; — deployed and maintained Linux servers for clients, refactored broken scripts, and trained non-technical users on SSH and Linux basics.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;key-skills&#34;&gt;&#xA;  Key Skills&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#key-skills&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Linux&lt;/strong&gt;: RHEL, Ubuntu, CentOS&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automation&lt;/strong&gt;: Ansible, Docker, cron&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Languages&lt;/strong&gt;: Python, Bash, Go&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tools&lt;/strong&gt;: systemd, journalctl, Git&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;You can view or download my latest CV below:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/files/Ak_CV.pdf&#34; &gt;📄 View Resume (PDF)&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
