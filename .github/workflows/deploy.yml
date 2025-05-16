@@ -19,6 +19,7 @@ jobs:
           username: ubuntu
           key: ${{ secrets.EC2_SSH_KEY }}
           script: |
+
             rm -rf ~/onurhanak.com
             git clone https://github.com/${{ github.repository }} ~/onurhanak.com
             cd ~/onurhanak.com
