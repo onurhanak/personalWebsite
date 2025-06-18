@@ -3,7 +3,7 @@ title: "About"
 date: 2025-05-16
 ---
 
-Hi, I'm **Onurhan Ak**. I am a Linux-focused DevOps and Systems Engineer with a strong background in automation, provisioning, and data infrastructure. I’m RHCSA-certified and currently working as a Data Engineer & Linux SysAdmin at the University of British Columbia.
+Hi, I'm **Onurhan Ak**. I am a Linux-focused DevOps and Systems Engineer with a strong background in automation, provisioning, and data infrastructure. I’m RHCSA-certified and currently working as a Linux SysAdmin at the University of British Columbia.
 
 ### What I Do
 
@@ -17,11 +17,3 @@ Hi, I'm **Onurhan Ak**. I am a Linux-focused DevOps and Systems Engineer with a 
 
 - **UBC** — streamlined Linux dev environments, automated backup pipelines, and maintained userspace configurations for AI workflows.
 - **Freelance** — deployed and maintained Linux servers for clients, refactored broken scripts, and trained non-technical users on SSH and Linux basics.
-
-### Key Skills
-
-- **Linux**: RHEL, Ubuntu, CentOS
-- **Automation**: Ansible, Docker, cron
-- **Languages**: Python, Bash, Go
-- **Tools**: systemd, journalctl, Git
-
