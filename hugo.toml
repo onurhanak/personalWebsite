@@ -26,7 +26,7 @@ author = "Onurhan Ak"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Onurhan Ak's personal website"
 keywords = "blog,developer,personal"
-info = ["Red Hat Certified System Administrator", "AWS Certified Solutions Architect", "DevOps"]
+info = ["Red Hat Certified System Administrator", "DevOps Engineer"]
 avatarURL = "images/pp3.webp"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -165,4 +165,3 @@ url = "about/"
 name = "Resume"
 weight = 5
 url = "files/Ak_CV.pdf"
-
