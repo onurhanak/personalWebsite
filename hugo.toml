@@ -22,11 +22,13 @@ noClasses = false
 unsafe = true
 
 [params]
-author = "Onurhan Ak"
-# license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+info = [
+	"<br> I am a Linux systems and infrastructure engineer with a focus on automation and provisioning. <br> <br> I work as a Linux SysAdmin & Automation Engineer at the University of British Columbia. My work centers on managing Linux environments, writing tools to reduce manual tasks, and supporting research computing. <br> <br> You can find out more about my skill set on <a href='/files/Ak_CV.pdf'>my resume</a>.",
+]
+author = ""
+license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Onurhan Ak's personal website"
 keywords = "blog,developer,personal"
-info = ["Linux & DevOps Engineer | Automation, Containers, Cloud"]
 avatarURL = "images/pp3.webp"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -155,13 +157,3 @@ url = "https://linkedin.com/in/onurhanak"
 
 [languages.en]
 languageName = ":uk:"
-
-[[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
-
-[[languages.en.menu.main]]
-name = "Resume"
-weight = 5
-url = "files/Ak_CV.pdf"

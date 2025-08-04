@@ -10441,8 +10441,25 @@ p {
   @media only screen and (max-width: 768px) {
     p {
       margin: 1.5rem 0 1.5rem 0; } }
+h2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, "游ゴシック", "PingFang SC", STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+  font-weight: 400;
+  color: #000;
+  margin: 4rem 0 2.5rem 0; }
+  h2:hover .heading-link {
+    visibility: visible; }
+  h2 .heading-link {
+    color: #1565c0;
+    font-weight: inherit;
+    text-decoration: none;
+    font-size: 80%;
+    visibility: hidden; }
+  h2 .title-link {
+    color: inherit;
+    font-weight: inherit;
+    text-decoration: none; }
+
 h1,
-h2,
 h3,
 h4,
 h5,
@@ -10452,14 +10469,12 @@ h6 {
   color: #000;
   margin: 4rem 0 2.5rem 0; }
   h1:hover .heading-link,
-  h2:hover .heading-link,
   h3:hover .heading-link,
   h4:hover .heading-link,
   h5:hover .heading-link,
   h6:hover .heading-link {
     visibility: visible; }
   h1 .heading-link,
-  h2 .heading-link,
   h3 .heading-link,
   h4 .heading-link,
   h5 .heading-link,
@@ -10470,7 +10485,6 @@ h6 {
     font-size: 80%;
     visibility: hidden; }
   h1 .title-link,
-  h2 .title-link,
   h3 .title-link,
   h4 .title-link,
   h5 .title-link,
